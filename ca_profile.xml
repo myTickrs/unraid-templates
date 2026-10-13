@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Maintainer>
+  <Profile>myTickrs is a self-hosted investment portfolio tracker: lots, cost basis, profit and loss, and returns, with market data from built-in and plugin providers. Data stays in a local SQLite database, with optional sync to the myTickrs cloud.[br][br]For help, use the support thread on the Unraid forums or open an issue on GitHub.</Profile>
+  <Icon>https://raw.githubusercontent.com/myTickrs/unraid-templates/main/icons/mytickrs.png</Icon>
+  <Forum>https://github.com/myTickrs/myTickrs</Forum>
+  <WebPage>https://github.com/myTickrs/myTickrs</WebPage>
+  <DonateText/>
+  <DonateLink/>
+</Maintainer>
